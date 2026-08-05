@@ -1,0 +1,1 @@
+dalam CSS padding digunakan agar memberi ruang kosong dalam suatu elemen, contoh saya ingin membuat tulisan dengan kotak saya dapat memberi padding dengan margin sekian, atau memberi jarak pada suatu tulisan dalam web
